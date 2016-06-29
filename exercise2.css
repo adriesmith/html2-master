@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+}
+
+
+#about_blue {
+	border: 3px solid black;
+	background: #6495ED;
+}
+
+#about_yellow {
+	border: 3px solid black;
+	background:#FFEBCD;
+}
+
+li.color-info {
+	color: red
+	;
+}
